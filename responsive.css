@@ -1,0 +1,370 @@
+/*Responsive design for extra small device*/
+@media only screen and (max-width:575px){
+    .navbar-section .vegetable-menu{
+        margin-top: 50px;
+    }
+    .navbar-section .container .vegetable-menu .nav-item .nav-link{
+        font-size: 25px;
+    }
+    .banner-section .container .banner-leftContent{
+        margin-top: 20px;
+    }
+    .banner-section .container .banner-leftContent h2{
+        font-size: 45px;
+    }
+    .banner-section .container .banner-leftContent h4, h2, p{
+        text-align: center;
+    }
+    .banner-section .container .banner-leftContent .vegetable-input input{
+        display: block;
+        width: 95%;
+        margin-bottom: 20px;
+        
+    } 
+    .banner-section .container .banner-leftContent .vegetable-input .search-btn{
+        display: block;
+        width: 95%;
+        font-size: 18px;
+        margin-bottom: -5px;
+    }
+    .banner-section .container .banner-leftContent .contact-us, .vegetable{
+        display: block;
+        width: 95%;
+        font-size: 18px;
+        margin-bottom: -5px;
+    }
+    .banner-section .container .banner-leftContent .vegetable{
+        display: block;
+        width: 95%;
+        font-size: 18px;
+        margin-bottom: -5px;
+    }
+    .banner-section .container .banner-rightContent img{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    
+    .about-us .container {
+        width: 90%;
+         padding-bottom: 10px;
+    }
+    .about-us .container .about-us-leftContant h2{
+        display: block;
+        text-align: center;
+        margin-left:0;
+    }
+    .about-us .container .about-us-leftContant p{
+        text-align: justify;
+        margin-left:0;
+    }
+    .about-us .container .about-us-leftContant .read-more-btn{
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        font-size: 18px;
+        margin-left:0;
+    }
+    .about-us .container .about-us-RightContant .image{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    
+    .fresh-vegetable .container h2{
+        font-size: 40px;
+    }
+     .fresh-vegetable .container .fresh-vegetable-leftContent img{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+         height: auto;
+    }
+    .fresh-vegetable .container .fresh-vegetable-RightContent h4{
+        text-align: center;
+        margin-top: 40px;
+    }
+    .fresh-vegetable .container .fresh-vegetable-RightContent p{
+        line-height: 1.5;
+        text-align: justify;
+    }
+    .contact-us .container .contact-us-form .contact-form{
+        width: 100%;
+        display: block;
+    }
+    .contact-us .container .contact-us-form .contact-form input{
+        width: 100%;
+        display: block;
+    }
+    .contact-us .container .contact-us-form .contact-form textarea{
+        width: 100%;
+        display: block;
+    }
+    .contact-us .container .contact-us-form .contact-form .form-submit-btn{
+        width: 100%;
+        display: block;
+    }
+    .footer-section{
+        padding-bottom: 30px;
+    }
+    .footer-section .margin-left{
+        margin-left: 0;
+    }
+    .footer-section .container .footer-left .logo img{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-top: 20px;
+    }
+    .footer-section .container .footer-left h4{
+        text-align: center;
+        font-size: 40px;
+        
+    }
+    .footer-section .container .footer-left p{
+        font-size: 25px;
+    }
+    .footer-section .container .footer-center h4{
+        text-align: center;
+        font-size: 40px;
+        
+    }
+    .footer-section .container .footer-center ul{
+        text-align: center;
+        font-size: 25px;
+    }
+    .footer-section .container .footer-right h4{
+        text-align: center;
+        font-size: 40px;
+    }
+    .footer-section .container .footer-right input{
+        display: block;
+        margin: auto;
+        width: 100%;
+    }
+    .footer-section .container .footer-right .subscribe{
+        display: block;
+        text-align: center;
+        width: 100%;
+        margin: auto;
+        margin-top: 20px;
+    }
+    
+    .footer-section .container .footer-right h4{
+        margin-left: 20px;
+    }
+}
+/*Responsive design for extra small device*/
+
+/*Responsive design for  small device*/
+@media only screen and (min-width:576px) and (max-width:767px){
+    .navbar-section .vegetable-menu{
+        margin-top: 50px;
+    }
+    .navbar-section .container .vegetable-menu .nav-item .nav-link{
+        font-size: 25px;
+    }
+    .banner-section .container .banner-leftContent{
+        margin-top: 20px;
+    }
+    .banner-section .container .banner-leftContent h2{
+        font-size: 50px;
+    }
+    .banner-section .container .banner-leftContent h4, h2, p{
+        text-align: center;
+    }
+    .banner-section .container .banner-leftContent .vegetable-input input{
+        display: block;
+        width:95%;
+        margin-bottom: 20px;
+    } 
+    .banner-section .container .banner-leftContent .vegetable-input .search-btn{
+        display: block;
+        width: 95%;
+       font-size: 18px;
+        margin-bottom: -5px;
+    }
+    
+    .banner-section .container .banner-leftContent .contact-us, .vegetable{
+        display: block;
+        width: 95%;
+        font-size: 18px;
+        margin-bottom: -5px;
+    }
+    .banner-section .container .banner-leftContent .vegetable{
+        display: block;
+        width: 95%;
+        font-size: 18px;
+        margin-bottom: -5px;
+    }
+    .banner-section .container .banner-rightContent img{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .about-us .container {
+        width: 90%;
+        padding-bottom: 10px;
+    }
+    .about-us .container .about-us-leftContant h2{
+        display: block;
+        text-align: center;
+        margin-left:0;
+    }
+    .about-us .container .about-us-leftContant p{
+        text-align: justify;
+        margin-left:0;
+    }
+    .about-us .container .about-us-leftContant .read-more-btn{
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        font-size: 18px;
+        margin-left:0;
+    }
+    .about-us .container .about-us-RightContant .image{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .fresh-vegetable .container h2{
+        font-size: 40px;
+    }
+    .fresh-vegetable .container .fresh-vegetable-leftContent img{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        height: auto;
+    }
+    .fresh-vegetable .container .fresh-vegetable-RightContent h4{
+        text-align: center;
+        margin-top: 40px;
+    }
+    .fresh-vegetable .container .fresh-vegetable-RightContent p{
+        line-height: 1.5;
+        text-align: justify;
+    }
+    .contact-us .container .contact-us-form .contact-form .form-submit-btn{
+        width: 100%;
+        display: block;
+    }
+    .contact-us .container .contact-us-form .contact-form{
+        width: 100%;
+        display: block;
+    }
+    .contact-us .container .contact-us-form .contact-form input{
+        width: 100%;
+        display: block;
+    }
+    .contact-us .container .contact-us-form .contact-form textarea{
+        width: 100%;
+        display: block;
+    }
+    .contact-us .container .contact-us-form .contact-form .form-submit-btn{
+        width: 100%;
+        display: block;
+    }
+    .footer-section{
+        padding-bottom: 30px;
+    }
+    .footer-section .margin-left{
+        margin-left: 0;
+    }
+    .footer-section .container .footer-left .logo img{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-top: 20px;
+    }
+    .footer-section .container .footer-left h4{
+        text-align: center;
+        font-size: 40px;
+        
+    }
+    .footer-section .container .footer-left p{
+        font-size: 25px;
+    }
+    .footer-section .container .footer-center h4{
+        text-align: center;
+        font-size: 40px;
+        
+    }
+    .footer-section .container .footer-center ul{
+        text-align: center;
+        font-size: 25px;
+    }
+    .footer-section .container .footer-right h4{
+        text-align: center;
+        font-size: 40px;
+    }
+    .footer-section .container .footer-right input{
+        display: block;
+        margin: auto;
+        width: 100%;
+    }
+    .footer-section .container .footer-right .subscribe{
+        display: block;
+        text-align: center;
+        width: 100%;
+        margin: auto;
+        margin-top: 20px;
+    }
+    
+}
+/*Responsive design for small device*/
+
+/*Responsive design for medium device*/
+@media only screen and (min-width:768px) and (max-width:991px){
+    .navbar-section .vegetable-menu{
+        margin-left: 100px;
+    }
+    .banner-section .container .banner-leftContent h2{
+        font-size: 45px;
+    }
+    .banner-section .container .banner-leftContent .vegetable-input input{
+        display: inline-block;
+        width: 250px;
+    }
+    .banner-section .container .banner-leftContent .vegetable-input .search-btn{
+        margin-top: 20px;
+    }
+    .banner-section .container .banner-rightContent img{
+        margin-left: 150px;
+    }
+    
+    .about-us .container about-us-RightContant img{
+        width: 100%;
+    }
+    .fresh-vegetable .container .fresh-vegetable-leftContent img{
+        height: 400px;
+    }
+    .fresh-vegetable .container .fresh-vegetable-RightContent h4{
+        margin-left: 90px
+    }
+    .fresh-vegetable .container .fresh-vegetable-RightContent p{
+        text-align: justify;
+        margin-left: 90px
+    }
+    
+    
+}
+
+
+/*Responsive design for medium device*/
+
+
+/*Responsive design for Large device device*/
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .banner-section .container .banner-rightContent img{
+        margin-left: 150px;
+    }
+    .fresh-vegetable .container .fresh-vegetable-RightContent .fresh-heading, .fresh-para{
+        margin-left: 70px;
+    }    
+}
+
+/*Responsive design for Large device device*/
+
+
+
+

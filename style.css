@@ -1,0 +1,310 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ececf0;
+}
+.container{
+    max-width: 1300px;
+}
+/*Navbar css style starts here*/
+.navbar{
+    width: 100%;
+}
+.navbar-section .vegetable-logo img{
+    width: 90px;
+}
+.navbar-section .vegetable-menu .nav-item{
+    margin-right: 10px;
+    font-family: lato;
+}
+.navbar-section .vegetable-menu .nav-item:last-child{
+    margin-right: 0;
+}
+.navbar-section .vegetable-menu .nav-item .nav-link{
+    color: #000;
+    
+    font-size: 16px
+}
+.navbar-section .vegetable-menu .nav-item .nav-link:hover{
+    color: #43960f;
+}
+.navbar-section .vegetable-menu .nav-item .active{
+    color: #43960f;
+}
+/*Navbar css style ends here*/
+
+
+
+
+/*Banner section css style starts here*/
+.banner-section{
+    width: 100%;
+    margin-top: 50px;
+}
+
+.banner-section .container .banner-leftContent h4{
+    font-size: 30px;
+}
+.banner-section .container .banner-leftContent h2{
+    font-size: 60px;
+    font-weight: bold;
+    color: #43960f;
+    margin-bottom: 25px
+}
+.banner-section .container .banner-leftContent p{
+    font-size: 20px;
+}
+.banner-section .container .banner-leftContent .vegetable-input{
+    margin-top: 25px;
+}
+.banner-section .container .banner-leftContent .vegetable-input input{
+    display: inline-block;
+    width: 300px;
+    color: #43960f;
+}
+.banner-section .container .banner-leftContent .vegetable-input input::placeholder{
+    color: #43960f;
+    font-size: 16px;
+}
+.banner-section .container .banner-leftContent .vegetable-input .search-btn{
+    display: inline-block;
+    width: 100px;
+    background-color: #000;
+    color: #FFF;
+    padding: 8px 20px;
+    text-align: center;
+    border-radius:0;
+}
+.banner-section .container .banner-leftContent .contact-us{
+    width: 120px;
+    display: inline-block;
+    background-color: #000;
+    padding: 8px 16px;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    margin-right: 10px;
+    border-radius:0;
+    
+}
+.banner-section .container .banner-leftContent .vegetable{
+    width: 120px;
+    display: inline-block;
+    background-color: #000;
+    padding: 8px 16px;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    border-radius:0;
+    
+}
+.banner-section .container .banner-rightContent img{
+    width: 550px;
+    height: 450px;
+}
+/*Banner section css style ends here*/
+
+
+
+/*About Us section css style starts here*/
+.about-us{
+    width: 100%;
+    margin-top: 50px;
+   
+}
+.about-us .container{
+    width: 1320px;
+     box-shadow: 4px 0px 5px #939398;
+}
+.about-us .container .about-us-leftContant{
+    margin-top: 20px;
+    
+    
+}
+.about-us .container .about-us-leftContant h2{
+    background-color: #547d13;
+    padding: 12px 16px;
+    font-size: 20px;
+    display: inline-block;
+    color: #fff;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-left:60px;
+}
+.about-us .container .about-us-leftContant p{
+    font-size: 16px;
+    margin-left:60px;
+}
+.about-us .container .about-us-leftContant .read-more-btn{
+    display: inline-block;
+    background-color: #000;
+    padding: 12px 20px;
+    color: #fff;
+    text-align: center;
+    border-radius: 0;
+    margin-left:60px;
+}
+.about-us .container .about-us-RightContant .image{
+    width: 560px;
+    height: 400px;
+}
+
+/*About Us section css style ends here*/
+
+/*Fresh Begetable section css style starts here*/
+.fresh-vegetable{
+    width: 100%;
+    margin-top: 100px;
+}
+.fresh-vegetable .container h2{
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.fresh-vegetable .container .fresh-vegetable-leftContent img{
+    width: 500px;
+    margin-left: 20px;
+}
+
+.fresh-vegetable .container .fresh-vegetable-RightContent h4{
+    font-size: 30px;
+}
+.fresh-vegetable .container .fresh-vegetable-RightContent p{
+    line-height: 1.9;
+    font-size: 17px;
+   
+}
+/*Fresh Begetable section css style ends here*/
+
+
+/*Contact Us section css style starts here*/
+.contact-us{
+    width: 100%;
+    margin-top: 50px;
+}
+.contact-us .container h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.contact-us .container .contact-us-form .contact-form{
+    width: 550px;
+    margin: auto;
+    box-shadow: 4px 0px 5px #b1b1b4;
+    padding: 20px;
+    margin-top: 30px;
+        
+}
+.contact-us .container .contact-us-form .contact-form input{
+    border: 1px solid #000;
+    color: #547d13;
+    font-size:16px;
+}
+.contact-us .container .contact-us-form .contact-form input:focus{
+    border: 1px solid #547d13;
+}
+.contact-us .container .contact-us-form .contact-form textarea{
+    border: 1px solid #000;
+    height: 200px;
+    resize: none;
+    color: #547d13;
+    font-size:16px;
+}
+.contact-us .container .contact-us-form .contact-form textarea:focus{
+    border: 1px solid #547d13;
+}
+.contact-us .container .contact-us-form .contact-form .form-submit-btn{
+    background-color: #547d13;
+    color: #fff;
+    padding: 12px 20px;
+    text-align: center;
+    display: block;
+    width: 150px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+}
+.contact-us .container .contact-us-form .contact-form input::placeholder{
+    font-size: 16px;
+    color: #547d13;
+}
+.contact-us .container .contact-us-form .contact-form textarea::placeholder{
+    font-size: 16px;
+    color: #547d13;
+}
+/*Contact Us section css style ends here*/
+
+/*Footer section css style starts here*/
+
+.footer-section{
+    width: 100%;
+    margin-top: 50px;
+    background-color: #313131;
+    padding: 10px;
+}
+
+.footer-section .margin-left{
+    margin-left: 100px;
+}
+.footer-section .container .footer-left .logo img{
+    width: 130px;
+    margin-bottom: 20px;
+}
+.footer-section .container .footer-left h4{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+.footer-section .container .footer-left p{
+    font-size: 16px;
+    color: #fff;
+}
+.footer-section .container .footer-center{
+    margin-top: 120px;
+}
+.footer-section .container .footer-center h4{
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    font-weight: bold;
+}
+.footer-section .container .footer-center ul li{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+.footer-section .container .footer-center ul li a{
+    color: #fff;
+}
+.footer-section .container .footer-right{
+    margin-top: 120px;
+}
+.footer-section .container .footer-right h4{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.footer-section .container .footer-right input{
+    width: 250px;
+    
+}
+.footer-section .container .footer-right .subscribe{
+    background-color: #64a31e;
+    padding: 10px 10px;
+    display: block;
+    width: 150px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/*Footer section css style ends here*/
